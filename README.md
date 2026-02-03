@@ -4,3 +4,4 @@ Calculadora simples feita em python com ajuda da biblioteca questionary, possui 
 > Subtração
 > Multiplicação
 > Divisão
+Esse arquivo deve ser executado diretamente do prompt do comando. Dentro de alguma IDE ou editor de código ele dá erro.
