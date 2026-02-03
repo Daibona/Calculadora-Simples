@@ -1,5 +1,13 @@
 import questionary
 
+def ler_inteiro(mensagem):
+    while True:
+        try:
+            return int(questionary.text(mensagem).ask())
+        except ValueError:
+            print('[ERRO] Digite um número inteiro válido.')
+
+
 print('Calculadora Simples\n')
 
 while True:
@@ -13,8 +21,8 @@ while True:
         ],
     instruction='(Use as setas do teclado)').ask()
 
-    n1 = int(questionary.text('Digite o primeiro valor: ').ask())
-    n2 = int(questionary.text('Digite o segundo valor: ').ask())
+    n1 = ler_inteiro('Digite o primeiro valor: ')
+    n2 = ler_inteiro('Digite o segundo valor: ')
 
     match op:
         case 'Adição':
