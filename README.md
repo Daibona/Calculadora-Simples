@@ -8,7 +8,7 @@
 > Multiplicação  
 > Divisão
 
-🔴 *Esse arquivo deve ser executado diretamente do prompt do comando. Dentro de alguma IDE ou editor de código ele dá erro.*
+🔴 *Esse arquivo deve ser executado diretamente do prompt de comando. Dentro de alguma IDE ou editor de código ele dá erro.*
 
 # Jogo de Adivinhação
 **Escolha a dificuldade que deseja e adivinhe qual o número correto entre 1 e 100.**
@@ -17,4 +17,9 @@
 > Médio - 30 tentativas  
 > Díficil - 15 tentativas
 
-🔴 *Esse arquivo deve ser executado diretamente do prompt do comando. Dentro de alguma IDE ou editor de código ele dá erro.*
+🔴 *Esse arquivo deve ser executado diretamente do prompt de comando. Dentro de alguma IDE ou editor de código ele dá erro.*
+
+# Simulador de Dado
+**Pressione qualquer tecla para rolar um dado de 6 lados**
+
+🔴 *Esse arquivo deve ser executado diretamente do prompt de comando. Dentro de alguma IDE ou editor de código ele dá erro.*
